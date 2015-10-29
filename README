@@ -1,0 +1,4 @@
+rely on zlib-devel.x86_64 and openssl-devel.x86_64
+
+yum install zlib-devel.x86_64
+yum install openssl-devel.x86_64
